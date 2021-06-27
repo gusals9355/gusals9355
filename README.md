@@ -8,8 +8,11 @@
 ### 👋 Hi! I'm a <b>back-end web developer</b> using Spring boot and Java (Main Language).
 
 My major is IT💻, and I'm especially interested in everything about computers.✨
+<br>
+<br>
 
-  
+
+## 💪	
 [![gusals9355's GitHub stats](https://github-readme-stats.vercel.app/api?username=gusals9355&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **gusals9355/gusals9355** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
