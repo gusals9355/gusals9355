@@ -6,8 +6,8 @@
 </div>
 
 ### 👋 Hi! I'm a <b>back-end web developer</b> using Spring boot and Java (Main Language).
-- I am working in South Korea.
-- My major is IT💻, and I'm especially interested in everything about computers.✨
+> - I am working in South Korea.<br>
+> - My major is IT💻, and I'm especially interested in everything about computers.✨
 <br>
 
 # 💪	
