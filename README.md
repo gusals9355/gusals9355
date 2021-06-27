@@ -1,3 +1,5 @@
+<a href="mailto:gusals9355@naver.com" target="_black"><img src="https://img.shields.io/badge/gusals9355@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
+  
 ### Hi there 👋
   <div align=right>
 	
