@@ -5,9 +5,9 @@
 
 </div>
 
-### 👋 Hi there, My name is HyunMin, I am a developer working at
+### 👋 Hi! I'm a <b>back-end web developer</b> using Spring boot and Java (Main Language).
 
-My major is mathematics📚, and I have been studying computer science💻 since 2018. I have project experience using Python(My most confident language), Java & Android, c++, and Matlab languages. I am very interested in machine learning. I am especially interested in computer vision.
+My major is IT💻, and I'm especially interested in everything about computers.
 
   
 [![gusals9355's GitHub stats](https://github-readme-stats.vercel.app/api?username=gusals9355&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
