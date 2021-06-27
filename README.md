@@ -11,7 +11,7 @@
 <br>
 
 # 💪	
-[![gusals9355's GitHub stats](https://github-readme-stats.vercel.app/api?username=gusals9355&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![gusals9355's GitHub stats](https://github-readme-stats.vercel.app/api?username=gusals9355&theme=tokyonight&show_icons=true)](https://github.com/gusals9355/github-readme-stats)
 <!--
 **gusals9355/gusals9355** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
