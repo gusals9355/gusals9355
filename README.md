@@ -13,6 +13,9 @@
 ### 💪 MY STATS
 ![gusals9355's GitHub stats](https://github-readme-stats.vercel.app/api?username=gusals9355&theme=tokyonight&show_icons=true)
 <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right">
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gusals9355)](https://solved.ac/gusals9355)
 <!--
 **gusals9355/gusals9355** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
